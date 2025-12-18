@@ -1753,4 +1753,5 @@ def main():
         messagebox.showerror("Erreur", f"Une erreur est survenue:\n{str(e)}")
 
 if __name__ == "__main__":
+
     main()
